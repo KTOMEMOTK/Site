@@ -1,0 +1,235 @@
+input, textarea {outline:none;}
+input:active, textarea:active {outline:none;}
+button {outline: none;}
+button:active {outline: none;}
+a {
+    text-decoration: none;
+    color:#FFFFFF;
+}
+h1 {
+    position: absolute;
+    width: 1920px;
+    height: 122px;
+    left: 0px;
+    top: 0px;
+    margin-top: 0%;
+    background: #2B2B2B;
+    }
+    img {
+    /* Логотип */
+    
+    position: absolute;
+    width: 111px;
+    height: 104px;
+    left: 30px;
+    top: 10px;
+    
+    background: #2B2B2B;
+    }
+    p1 {
+    /*Студенту*/
+    position: absolute;
+    width: 158px;
+    height: 59px;
+    left: 244px;
+    top: 40px;
+
+    font-family: Timmana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 59px;
+    
+
+
+    color: #FFFFFF;
+
+    }
+    p2{
+    /* Абитуриенту */
+    
+    position: absolute;
+    width: 228px;
+    height: 59px;
+    left: 512px;
+    top: 40px;
+
+    font-family: Timmana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 59px;
+
+    color: #FFFFFF;
+    }
+    p3 {
+    /* О нас */
+    
+    position: absolute;
+    width: 101px;
+    height: 59px;
+    left: 850px;
+    top: 40px;
+
+    font-family: Timmana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 59px;
+
+    color: #FFFFFF;
+    
+    }
+
+    p4 {
+    /* Авторизация */
+    
+    position: absolute;
+    width: 232px;
+    height: 59px;
+    left: 1061px;
+    top: 40px;
+
+    font-family: Timmana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 59px;
+
+    color: #FFFFFF;
+    }
+
+    button {
+        /*поиск */
+    position: absolute;
+    width: 77px;
+    height: 62px;
+    left: 350px;
+    top: 0px;
+
+    background-image: url(Images/search.png);
+    border:#2B2B2B;
+    }
+    
+    form {
+
+    position: absolute;
+    width: 314px;
+    height: 62px;
+    left: 1400px;
+    top: 30px;
+    }
+
+    input {
+
+    position: absolute;
+    width: 314px;
+    height: 62px;
+
+    font-family: Timmana;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 59px;
+
+    background: #FFFFFF;
+    border-radius: 30px;
+    }
+
+h2 {
+
+    position: absolute;
+    width: 1920px;
+    height: 880px;
+    left: 0px;
+    top: 100px;
+
+background: url(Images/background_home1.png);
+}
+
+p5 {
+
+position: absolute;
+width: 697px;
+height: 635px;
+left: 1100px;
+top: 150px;
+
+background: url(Images/logo_home.png);
+} 
+
+p6 {
+    /* Добро пожаловать на сайт вуза будущего */
+
+    position: absolute;
+    width: 1102px;
+    height: 236px;
+    left: 63px;
+    top: 150px;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 120px;
+    
+    
+    color: #131210;
+}
+p7 {
+/* Смотрите актуальные новости в разделе: О нас */
+
+
+position: absolute;
+width: 590px;
+height: 95px;
+left: 63px;
+top: 400px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+
+color: #212228;
+}
+
+p8 {
+/* Что бы узнать всё о поступлении зайдите в раздел абитуриенту */
+
+
+position: absolute;
+width: 576px;
+height: 143px;
+left: 63px;
+top: 550px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+
+color: #212228;
+
+}
+
+p9 {
+/* Зайдите в раздел студенту чтобы узнать рассписание */
+
+
+position: absolute;
+width: 576px;
+height: 143px;
+left: 63px;
+top: 700px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+
+color: #212228;
+}
